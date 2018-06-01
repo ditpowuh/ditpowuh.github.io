@@ -6,6 +6,10 @@ body {
   background-color: black;
 }
 
+br {
+  text-align: center;
+}
+
 .link {
   text-decoration: underline;
   color: lightblue;
