@@ -2,7 +2,13 @@
 Copyright © Ditpowuh 2018 Copyright Holder All Rights Reserved | All comments are from me
 */
 
+@import url("https://fonts.googleapis.com/css?family=Press+Start+2P");
+
 html {
   font-family: "Courier New", Courier, monospace;
   color: white;
+}
+
+.pixeltext {
+  font-family: "Press Start 2P", monospace;
 }
