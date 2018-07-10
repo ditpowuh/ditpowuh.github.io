@@ -14,3 +14,18 @@ html {
 .pixeltext {
   font-family: "Press Start 2P", monospace;
 }
+
+.link {
+  text-decoration: underline;
+  color: lightblue;
+}
+
+.link:hover {
+  text-decoration: underline;
+  color: blue;
+}
+
+.link:active {
+  text-decoration: underline;
+  color: orange;
+}
