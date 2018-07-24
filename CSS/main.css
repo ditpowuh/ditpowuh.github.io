@@ -10,6 +10,10 @@ br {
   text-align: center;
 }
 
+p.br {
+  text-align: right;
+}
+
 .wrapper {
   text-align: center;
 }
