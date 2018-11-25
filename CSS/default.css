@@ -1,0 +1,33 @@
+/*
+Copyright © Ditpowuh 2018 Copyright Holder All Rights Reserved | All comments are from me
+*/
+
+body {
+  background-color: white;
+}
+
+.link {
+  text-decoration: underline;
+  color: lightblue;
+}
+
+.link:hover {
+  text-decoration: underline;
+  color: blue;
+}
+
+.link:active {
+  text-decoration: underline;
+  color: orange;
+}
+
+.bottom {
+  position: fixed;
+  text-align: center;
+  bottom: 0px;
+  width: 100%;
+}
+
+.wrapper {
+  text-align: center;
+}

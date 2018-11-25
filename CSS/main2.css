@@ -1,0 +1,26 @@
+/*
+Copyright © Ditpowuh 2018 Copyright Holder All Rights Reserved | All comments are from me
+*/
+
+body {
+  background-color: white;
+}
+
+br {
+  text-align: center;
+}
+
+p.br {
+  text-align: right;
+}
+
+.bottom {
+  position: fixed;
+  text-align: center;
+  bottom: 0px;
+  width: 100%;
+}
+
+.wrapper {
+  text-align: center;
+}
