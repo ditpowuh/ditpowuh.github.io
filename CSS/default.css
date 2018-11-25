@@ -2,6 +2,13 @@
 Copyright © Ditpowuh 2018 Copyright Holder All Rights Reserved | All comments are from me
 */
 
+@import url("https://fonts.googleapis.com/css?family=Cabin+Sketch");
+
+html {
+  font-family: "Cabin Sketch", Arial;
+  color: black;
+}
+
 body {
   background-color: white;
 }
