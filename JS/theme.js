@@ -1,5 +1,5 @@
 /*
-Copyright © Ditpowuh 2018 Copyright Holder All Rights Reserved | All comments are from me
+Copyright © Ditpowuh 2019 Copyright Holder All Rights Reserved | All comments are from me
 */
 
 var theme = 1;
