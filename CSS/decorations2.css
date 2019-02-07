@@ -1,0 +1,30 @@
+/*
+Copyright © Ditpowuh 2019 Copyright Holder All Rights Reserved | All comments are from me
+*/
+
+@import url("https://fonts.googleapis.com/css?family=Press+Start+2P");
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+
+html {
+  font-family: "Montserrat", Arial;
+  color: black;
+}
+
+.pixeltext {
+  font-family: "Press Start 2P", monospace;
+}
+
+.link {
+  text-decoration: underline;
+  color: lightblue;
+}
+
+.link:hover {
+  text-decoration: underline;
+  color: blue;
+}
+
+.link:active {
+  text-decoration: underline;
+  color: orange;
+}
