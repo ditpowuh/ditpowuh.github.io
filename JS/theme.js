@@ -2,6 +2,8 @@
 Copyright © Ditpowuh 2019 Copyright Holder All Rights Reserved | All comments are from me
 */
 
+//May or may not be used\\
+
 var theme = 1;
 
 function themechange() {
