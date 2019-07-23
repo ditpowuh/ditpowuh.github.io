@@ -1,0 +1,54 @@
+/*
+Copyright © Ditpowuh 2019 Copyright Holder All Rights Reserved | All comments are from me
+*/
+
+html {
+  font-family: Helvetica;
+  color: #FFFFFF;
+}
+
+h1 {
+  letter-spacing: 5px;
+}
+
+body {
+  background-image: url("https://cdn.glitch.com/a4359bfe-d8cc-47b9-824a-0635c9be9bda%2Ftwinkle.gif");
+  background-position: center;
+  background-size: 75% 75%;
+  background-repeat: repeat;
+  background-attachment: fixed;
+}
+
+br {
+  text-align: center;
+}
+
+p.br {
+  text-align: right;
+}
+
+.link {
+  text-decoration: underline;
+  color: #ADD8E6;
+}
+
+.link:hover {
+  text-decoration: underline;
+  color: #96BBC7;
+}
+
+.link:active {
+  text-decoration: underline;
+  color: #69d2f4;
+}
+
+.bottom {
+  position: fixed;
+  text-align: center;
+  bottom: 0px;
+  width: 100%;
+}
+
+.wrapper {
+  text-align: center;
+}
